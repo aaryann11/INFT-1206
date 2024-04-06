@@ -1,3 +1,10 @@
+<!-
+Name: Aaryan Desai
+filename: Text file 
+Date: 5-April-2024
+Assignment-4 Part-3 Silly story generator
+-->
+
 1. COMPLETE VARIABLE AND FUNCTION DEFINITIONS
 
 const customName = document.getElementById('customname');

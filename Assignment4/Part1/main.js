@@ -1,3 +1,10 @@
+/*
+Name: Aaryan Desai
+filename: Javascript file 
+Date: 5-April-2024
+Assignment-4 Part-3 Silly story generator
+*/
+
 // Retrieve Elements
 const customName = document.getElementById('customname');
 const randomize = document.querySelector('.randomize');
