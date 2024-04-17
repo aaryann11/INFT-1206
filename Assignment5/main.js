@@ -12,7 +12,7 @@ showHideBtn.onclick = function() {
     commentWrapper.style.display = 'block';
   } else {
     showHideBtn.textContent = 'Show comments';
-    commentWrapper.style.display = 'none';
+    commentWrapper.style.display = 'none'; 
   }
 };
 
