@@ -1,3 +1,10 @@
+/*
+	Name: Aaryan Desai
+	File: style.css
+	Date: 16 April 2024
+	This is a Javascript file and changes are done accordingly.
+	*/
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
